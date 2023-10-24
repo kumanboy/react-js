@@ -1,0 +1,8 @@
+React js framework
+https://legacy.reactjs.org/
+
+React js o'rnatish
+
+npx create-react-app my-app
+cd my-app
+npm start
